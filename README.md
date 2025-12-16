@@ -3,8 +3,7 @@
 <a href="https://www.linkedin.com/in/nicholasbydesign"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
-- ⚡ I am Full-stack JavaScript Engineer with an affinity for hybrid mobile applications and UX.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-nicholasbydesign-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicholasbydesign)
+- ⚡ I am Senior JavaScript Engineer with an affinity for mobile applications and UX.
 
 ---
 
