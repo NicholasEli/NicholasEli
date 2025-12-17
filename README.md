@@ -4,9 +4,7 @@
 </p>
 
 ⚡ I am Senior JavaScript Engineer with an affinity for mobile applications and UX.
-
-<img src="https://nicholaseli.github.io/s-snax/assets/logo.png" width="80" alt="s-snax" />
-<p>Check out <a href="https://nicholaseli.github.io/s-snax/" target="_blank" title="s-snax">s-snax</a></p>
+<p><img src="https://nicholaseli.github.io/s-snax/assets/logo.png" width="32" alt="s-snax" />Check out <a href="https://nicholaseli.github.io/s-snax/" target="_blank" title="s-snax">s-snax</a></p>
 ---
 
 ### 🛠 &nbsp;Tools Of The Trade :
