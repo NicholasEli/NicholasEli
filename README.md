@@ -3,11 +3,13 @@
 <a href="https://www.linkedin.com/in/nicholasbydesign"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
-- ⚡ I am Senior JavaScript Engineer with an affinity for mobile applications and UX.
+⚡ I am Senior JavaScript Engineer with an affinity for mobile applications and UX.
 
+<img src="https://nicholaseli.github.io/s-snax/assets/logo.png" width="80" alt="s-snax" />
+<p>Check out <a href="https://nicholaseli.github.io/s-snax/" target="_blank" title="s-snax">s-snax</a></p>
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;Tools Of The Trade :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
